@@ -37,7 +37,6 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 
-## OUTPUT:
 ```
 <!DOCTYPE html>
 <html>
@@ -246,6 +245,11 @@ button{
 </body>
 </html>
 ```
+## Output:
+![image](https://user-images.githubusercontent.com/94164665/150681777-a22a17c1-c9e7-433f-861b-2381000ff4b0.png)
+![image](https://user-images.githubusercontent.com/94164665/150681792-9113e666-2e48-413f-a49b-3dd60fa073f6.png)
+![image](https://user-images.githubusercontent.com/94164665/150681832-8c053306-1cfb-4494-9274-ba73da191ae4.png)
+
 ## Result:
 
 Thus a website is designed and validated for paint application using HTML5 canvas.
